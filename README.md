@@ -27,13 +27,14 @@ Libraries used:
 ### Usage Instructions:
 For ease of use, follow these steps to run the FinalCode based on your preferred environment:
 
-i. Jupyter Notebook:
-* Download and open FinalCode.ipynb.
-* Execute the notebook cells sequentially to run the code.
-*The program will automatically download required files from the Kaggle Dataset and utilize the improved model.
-ii. Python IDE:
-* Download FinalCode (Python Code).py.
-* Open and run the Python script using your preferred IDE (e.g., PyCharm, VSCode).
-* Ensure necessary libraries are installed (check installation list).
-* The script will handle file downloads from the Kaggle Dataset and execute the program with the improved model.
+1. **Jupyter Notebook**:
+   - Download and open `FinalCode.ipynb`.
+   - Execute the notebook cells sequentially to run the code.
+   - The program will automatically download required files from the Kaggle Dataset and utilize the improved model.
+
+2. **Python IDE**:
+   - Download `FinalCode (Python Code).py`.
+   - Open and run the Python script using your preferred IDE (e.g., PyCharm, VSCode).
+   - Ensure necessary dependencies are installed (check installation list).
+   - The script will handle file downloads from the Kaggle Dataset and execute the program with the improved model.
 
