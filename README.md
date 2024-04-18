@@ -17,7 +17,7 @@ Libraries used:
 * librosa
 * numpy
 * torch
-* sklearn
+* sklearn-learn
 * transformers
 * IPython
 * ipywidgets
@@ -38,3 +38,19 @@ For ease of use, follow these steps to run the FinalCode based on your preferred
    - Ensure necessary dependencies are installed (check installation list).
    - The script will handle file downloads from the Kaggle Dataset and execute the program with the improved model.
 
+### Libraries and Tools Used (similar to Installation List:
+
+* os
+* zipfile
+* pandas
+* matplotlib
+* librosa
+* numpy
+* torch
+* sklearn-learn
+* transformers
+* IPython
+* ipywidgets
+* warnings
+* string
+* Google Colab
