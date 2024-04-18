@@ -38,7 +38,7 @@ For ease of use, follow these steps to run the FinalCode based on your preferred
    - Ensure necessary dependencies are installed (check installation list).
    - The script will handle file downloads from the Kaggle Dataset and execute the program with the improved model.
 
-**Disclaimer** The CodeCheckPoint files represent historical progress snapshots of our coding work and are no longer relevant for review. In contrast, within the speech_accent_dataset folder, you'll discover a comprehensive set of resources. This includes a detailed .csv file documenting individual speaker information, a .txt file containing the common passage used for all speakers' readings, and a recordings folder containing all corresponding mp3 files of these readings.
+**Disclaimer: ** The CodeCheckPoint files represent historical progress snapshots of our coding work and are no longer relevant for review. In contrast, within the speech_accent_dataset folder, you'll discover a comprehensive set of resources. This includes a detailed .csv file documenting individual speaker information, a .txt file containing the common passage used for all speakers' readings, and a recordings folder containing all corresponding mp3 files of these readings.
 
 ### Libraries and Tools Used (similar to Installation List):
 
