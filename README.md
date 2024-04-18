@@ -3,8 +3,8 @@ Our project is aimed towards developing a sophisticated program that specializes
 Data Set: https://www.kaggle.com/datasets/rtatman/speech-accent-archive
 
 ### Pre-requisites
-Python 3.0 or above
-pip (Python package installer)
+* Python 3.0 or above
+* pip (Python package installer)
 
 ### Installation
 
